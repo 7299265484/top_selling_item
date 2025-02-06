@@ -89,3 +89,4 @@ if not df.empty:
         st.error("The 'order_date' column is missing in the provided data.")
 else:
     st.error("Uploaded DataFrame is empty.")
+
